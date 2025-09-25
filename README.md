@@ -12,7 +12,9 @@
 - [ ] 第4周：AI基础概念
 
 ## 目录结构
-python-ai-learning/ ├── README.md # 项目说明 ├── week1/ # 第1周学习内容 │ ├── hello.py # 第一个程序 │ ├── variables.py # 变量练习 │ └── functions.py # 函数练习 ├── week2/ # 第2周学习内容 └── notes/ # 学习笔记 └── ai_history.md # AI历史笔记
+python-ai-learning/ ├── README.md # 项目说明 ├
+── week1/ # 第1周学习内容 │ ── hello.py # 第一个程序 │ ── variables.py # 变量练习 │ └── functions.py # 函数练习 ├
+── week2/ # 第2周学习内容 └── notes/ # 学习笔记 └── ai_history.md # AI历史笔记
 ## 学习资源
 - [Python官方文档](https://docs.python.org/3/)
 - [GitHub官方教程](https://docs.github.com/cn)
